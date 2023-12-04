@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 5
     },
     {
       "id": 4,
@@ -48,5 +48,11 @@
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
     },
+    {
+      "name": "Legos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi-2UEd06M1xS28e6eSHVByXacKa4HfJBJrITPmGhzIVfVdRR7xKIpU0Az2hLIoGCPZlE&usqp=CAU",
+      "likes": 8,
+      "id": 9
+    }
   ]
 }
